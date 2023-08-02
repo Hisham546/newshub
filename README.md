@@ -1,2 +1,2 @@
 # newshub
-A News app that fetches latest news
+Flutter News App
